@@ -1,2 +1,69 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index</title>
+  </head>
+  <body>
+    <!-- Cloud -->
+    <img
+      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAABuVBMVEX///8Akf7/sQ8AAAC37/7/FiH//wAAk/8Alf//kSIAl///tA/8/PwAmv/19fX4+Pjl5eXu7u7b29ulpaW68///uA+"
+      alt="Kalsoom profile picture"
+      width="100"
+      height="100"
+    />
+
+    <!-- Video -->
+    <video
+      src="./Norway _ Mountains.mp4"
+      width="200"
+      height="100"
+      controls
+    ></video>
+
+    <audio
+      src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      width="200"
+      height="100"
+      controls
+    ></audio>
+
+    <video
+      src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      width="200"
+      height="100"
+      controls
+    ></video>
+
+    <!-- Table -->
+    <table>
+      <thead>
+        <th>Sr</th>
+        <th>Name</th>
+        <th>Email</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="3">1</td>
+          <td colspan="2">Kalsoom</td>
+        </tr>
+        <tr>
+          <td>Kalsoom</td>
+          <td>kalsoom@gmail.com</td>
+        </tr>
+        <tr>
+          <td>Kalsoom</td>
+          <td>kalsoom@gmail.com</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td></td>
+          <td></td>
+          <td>300$</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
